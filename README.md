@@ -18,10 +18,13 @@ results = classifier(x_train, x_test, y_train, y_test)
 # results will be initialized as a pandas Series object.
 ```
 
-Dependancies:
+Dependencies:
 - scikit-learn
 - numpy
 - pandas
+
+This should be compatable for mac, windows, and unix but has only been tested on windows.
+
 
 *Disclaimer:*
 *This library is not very actively maintained and is more a proof-of-concept than a legitimate library meant for public distribution.  It is meant as a useful tool for myself but the code is not very well maintained or documented.*
