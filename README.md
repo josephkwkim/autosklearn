@@ -27,4 +27,4 @@ This should be compatable for mac, windows, and unix but has only been tested on
 
 
 *Disclaimer:*
-*This library is not very actively maintained and is more a proof-of-concept than a legitimate library meant for public distribution.  It is meant as a useful tool for myself but the code is not very well maintained or documented.*
+*This code is trash and was a proof of concept.  A productionalized version is in development and will be published to PyPi at my earliest convenience*
